@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'AIzaSyDy79LL1Ec6TWub54MNR_m4XcIiD-v1i3M';
+const KEY = 'insertvaluefrom.env';
 
 
 export default axios.create({
