@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'insertvaluefrom.env';
+const KEY = 'see.env';
 
 
 export default axios.create({
@@ -10,7 +10,6 @@ export default axios.create({
 		type: 'video',
 		maxResults: 5,
 		key: KEY
-
 	}
 });
 
