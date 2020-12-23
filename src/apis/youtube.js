@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'see.env';
+const KEY = 'AIzaSyCB-3-ojmRqVpkg1nC3OvII46DZbCCRIS4';
 
 
 export default axios.create({
